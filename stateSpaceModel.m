@@ -1,6 +1,8 @@
 %% State-Space catcher thing
 clear; close all
 
+%test
+
 %% define vars
 m1 = 10;        % kg mass of platform
 m2 = 3;         % kg mass of puck
