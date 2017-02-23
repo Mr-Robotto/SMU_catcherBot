@@ -2,6 +2,7 @@
 clear; close all
 
 %test
+%test2
 
 %% define vars
 m1 = 10;        % kg mass of platform
